@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arko27&label=Profile%20views&color=0e75b6&style=flat" alt="Arko27" /> </p>
 
-- 🌱 I’m currently learning **Python, Java, C**
+- 🌱 I’m currently learning **Python, Java, C, JavaScript**
 
 - 📫 How to reach me **arkosen27@gmail.com**
 
