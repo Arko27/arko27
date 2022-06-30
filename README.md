@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, This is Arko Sen</h1>
 
-- 🌱 I’m currently learning **Python, Java, C, JavaScript**
-
 - 📫 How to reach me **arkosen27@gmail.com**
 
 ## Skills:
@@ -10,7 +8,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 
 #### ML/DL
 
