@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, This is Arko Sen</h1>
 
-- 📫 How to reach me **arkosen27@gmail.com**
+- 🎓 I am currently pursuing my B-Tech specialized in Electronics and Communications Engineering from B.P. Poddar Institute Of Management and Technology.
+
+- 💻 I am a Data Science and Machine Learning enthusiast trying to implement my ideas into some useful projects to learn the in-depth concepts and various algorithms.
+- 💻 I am also a quick learner who always has the thirst to learn new skills and the trending technologies of the industry.
+- 🗣 I have a good grasp in communication. I am a team player and also do possess Leadership and Managerial skills.
+
+- 📩 How to reach me **arkosen27@gmail.com**
 
 ## Skills:
 
