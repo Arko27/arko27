@@ -40,11 +40,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/arko-sen-4b347a200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arko-sen-4b347a200/" height="30" width="40" /></a>
-<a href="https://instagram.com/arko_sen27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arko_sen27" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arkoSen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="arkoSen" height="30" width="40" /></a>
 <a href="https://www.facebook.com/arkosen.270800" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Arko Sen" height="30" width="40" /></a>
 </p>
@@ -53,8 +48,9 @@
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://portfolio-arko.vercel.app)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/senarko/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/arko_sen27)
-[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](arkosen27@gmail.com)
+[<img src = "https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://portfolio-arko.vercel.app)
+[<img src = "https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/senarko/)
+[<img src = "https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/arko_sen27)
+[<img src = "https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black)" />](https://www.facebook.com/arkosen.270800)
+[<img src = "https://img.shields.io/badge/hackerrank-%2312100E.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=black" />](https://www.hackerrank.com/arkoSen)
 </p>
