@@ -27,7 +27,7 @@
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=orange)&nbsp;
 
 #### Tools and Technologies
 
