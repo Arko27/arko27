@@ -49,4 +49,4 @@
 [<img src = "https://img.shields.io/badge/hackerrank-%2312100E.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=29b35b" />](https://www.hackerrank.com/arkoSen)
 </p>
 
-https://github-readme-stats.vercel.app/api?username=arko27
+<a href="https://github.com/arko27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arko27&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arko's github stats" /></a> | <a href="https://github.com/arko27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arko27&layout=compact&theme=buefy&hide_border=true" /></a>
