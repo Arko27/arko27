@@ -39,11 +39,6 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-
-<a href="https://www.hackerrank.com/arkoSen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="arkoSen" height="30" width="40" /></a>
-<a href="https://www.facebook.com/arkosen.270800" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Arko Sen" height="30" width="40" /></a>
-</p>
-
 ## Connect with me:
 
 <p align = "center">
@@ -53,3 +48,5 @@
 [<img src = "https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=blue" />](https://www.facebook.com/arkosen.270800)
 [<img src = "https://img.shields.io/badge/hackerrank-%2312100E.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=29b35b" />](https://www.hackerrank.com/arkoSen)
 </p>
+
+https://github-readme-stats.vercel.app/api?username=arko27
