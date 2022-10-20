@@ -46,6 +46,8 @@
 [<img src = "https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />](https://www.linkedin.com/in/senarko/)
 [<img src = "https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=blue" />](https://www.facebook.com/arkosen.270800)
 [<img src = "https://img.shields.io/badge/hackerrank-%2312100E.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=29b35b" />](https://www.hackerrank.com/arko27)
+[<img src = "https://img.shields.io/badge/geeksforgeeks-%2312100E.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white&color=29b35b" />]
+(https://auth.geeksforgeeks.org/user/arkos_27)
 </p>
 
 | <a href="https://github.com/arko27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arko27&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arko's github stats" /></a> | <a href="https://github.com/arko27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arko27&layout=compact&theme=buefy&hide_border=true" /></a> |
