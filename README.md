@@ -19,25 +19,28 @@
 
 #### Latest Technologies
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&color=blue)&nbsp;
 ![RecatJS](https://img.shields.io/badge/react%20js-%23150458.svg?style=for-the-badge&logo=react&logoColor=61DBFB&color=358094)
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=orange)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=blue)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-00000F?style=for-the-badge&logo=oracle&logoColor=white&color=orange)&nbsp;
+![MongoDB](https://img.shields.io/badge/mongo-00000F?style=for-the-badge&logo=mongodb&logoColor=white&color=green)&nbsp;
 
 #### DevOps
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![BitBucket](https://img.shields.io/badge/bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
 
 #### IDEs
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Intellij IDEA](https://img.shields.io/badge/intellij%20IDEA-386aff?style=for-the-badge&logo=intellijidea&logoColor=red)&nbsp;
 
 ## Connect with me:
 
