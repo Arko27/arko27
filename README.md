@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Arko Sen</h1>
 
-- 🖥 I am a Java Developer @Accenture specialized in Spring Boot, Spring REST services, Hibernate, etc.
+- 🖥 I am a Java Developer <a href="https://www.accenture.com/in-en">@Accenture</a> specialized in Spring Boot, Spring REST services, Hibernate, etc.
 - 🎓 I have graduated in B-Tech specialized in Electronics and Communications Engineering from B.P. Poddar Institute Of Management and Technology.
 - 💡 I have strong problem-solving abilities, adaptability, and a collaborative mindset essential for delivering high-quality results.
 - 📈 I am committed to continuous learning and improvement, keeping pace with evolving industry trends and best practices.
