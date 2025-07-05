@@ -21,7 +21,8 @@
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&color=blue)&nbsp;
-![RecatJS](https://img.shields.io/badge/react%20js-%23150458.svg?style=for-the-badge&logo=react&logoColor=61DBFB&color=358094)
+![RecatJS](https://img.shields.io/badge/react%20js-%23150458.svg?style=for-the-badge&logo=react&logoColor=61DBFB&color=358094)&nbsp;
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%23150458.svg?style=for-the-badge&logo=springboot&logoColor=white&color=green)&nbsp;
 
 #### Database
 
