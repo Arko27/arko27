@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Arko Sen</h1>
+<h1 align="center">Hi 👋, this is Arko</h1>
 
 - 🖥 I am a Java Developer <a href="https://www.accenture.com/in-en">@Accenture</a> specialized in Spring Boot, Spring REST services, Hibernate, etc.
 - 🎓 I have graduated in B-Tech specialized in Electronics and Communications Engineering from B.P. Poddar Institute Of Management and Technology.
