@@ -55,6 +55,8 @@
 
 <br>
 
+## ⚡️ Stats
+
 <div align=center>
   <!-- <img width=390 src="https://github-readme-stats.vercel.app/api?username=arko27&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Arko's GitHub Stats" /> -->
   <img width=1000 src="https://github-readme-streak-stats.herokuapp.com/?user=arko27&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Arko's" />
